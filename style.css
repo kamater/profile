@@ -1,11 +1,13 @@
 body {
   font-family: 'Roboto', 'sans-serif';
-  background-color: #F8F9FC;
+  background-image: url("https://media.giphy.com/media/nZ298UnMHCYV2/giphy.gif");
+  background-size: 200%;
   color: #727584;
 }
 
 h1 {
   color: #6bd6bb;
+  font-size: 200px;
 }
 
 h2 {
